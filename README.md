@@ -1,6 +1,6 @@
-# simple-scripts
-Snipets of Python code I find useful
+# Simple Scripts
 
-These are a bunch of Pyhton codes I worte from time to time to help automate some tasks or play around with different Python modules
+Snipets of Python code are used for various purposes.
 
-Now I will continue developments here
+These are a bunch of Pyhton codes I worte from time to time to help automate some tasks or play around with different Python modules.
+
